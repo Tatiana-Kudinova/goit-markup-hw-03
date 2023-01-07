@@ -320,12 +320,12 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 72px;
 }
 .examples-item {
   display: inline-block;
   padding-top: 0;
   padding-bottom: 0;
-  margin-bottom: 72px;
 }
 
 .examples-item:not(:last-child) {
